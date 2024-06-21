@@ -1,5 +1,5 @@
-Starten mit
 
 ```bash
+npm install
 npx vite
 ```
